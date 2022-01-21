@@ -22,7 +22,6 @@ The follow process should be followed for a FlowForge release
     - Run `npm publish` in the project directory. (If this is the first release of a scoped package remember to add `--access=public`)
  - Once all the components have been built and published to npm the `installer`, `helm` and `docker-compose` components can be updated and tagged.
 
-
 ## Next Steps
 
  - As much as possible of the previous steps should be converted into a CI Pipeline making use of GitHub Actions.
