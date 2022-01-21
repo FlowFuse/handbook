@@ -80,4 +80,4 @@ The `package.json` must contain the following keys
 
 Package numbers should follow the Semantic Versioning Scheme as laid out on [semver.org](https://semver.org/).
 
-Each component will maintain it's own numbering regardless of the core FlowForge project and only update it's version as needed.
+Each component will stay in step with the core flowforge/flowforge release numbering for `major.minor` but will increment their own `fix` valuse as needed. e.g. On release of v0.2.0 all components will tag and release v0.2.0, but can independantly release v0.2.1 as needed.
