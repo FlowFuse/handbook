@@ -21,7 +21,6 @@ The follow process should be followed for a FlowForge release
     - Run any build step needed (e.g. `npm run build` for the flowforge/flowforge project)
     - Run `npm publish` in the project directory. (If this is the first release of a scoped package remember to add `--access=public`)
  - Once all the components have been built and published to npm the `installer`, `helm` and `docker-compose` components can be updated and tagged.
-    - The `installer` currently requires a manual step to create the `flowforge-installer-x.y.x.zip`. The file should contain all the files in the project in a directory called `flowforge-install-x.y.z`. It should be attached to the release (Click on the edit pencil on the relase page and attach the file)
 
 ## Next Steps
 
