@@ -84,6 +84,12 @@ The `package.json` must contain the following keys
         "name": "FlowFlow Inc."
     },
     ```
+ - engines
+    ```
+    "engines": {
+      "node": ">=16.x"
+    }
+    ```
 
 ### Package Version Numbering
 
