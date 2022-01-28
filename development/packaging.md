@@ -1,6 +1,6 @@
 Flow Forge Packaging Guidelines
 
-## Github projects 
+## Github projects
 
 ### Naming
 
@@ -17,7 +17,7 @@ All Git Repositories must contain the following files:
 
 ### Notifications
 
-Repositories should be added to the appropriate Slack channel. For core code reposities,
+Repositories should be added to the appropriate Slack channel. For core code repositories,
 this would be in the `#gh-flowforge` channel.
 
 To create a subscription, go to that channel and type the message:
@@ -28,13 +28,22 @@ To create a subscription, go to that channel and type the message:
 
 This will subscribe to any notifications covering: `issues`, `pulls`, `commits`, `releases`, `deployments` and `comments`
 
+### Workflows
+
+All code repositories must have the Project Automation workflow added. This is done
+by adding [`.github/workflows/project-automation.yml`](https://github.com/flowforge/flowforge/blob/main/.github/workflows/project-automation.yml). This workflow will ensure any
+issues or PRs opened/closed against the repo are automatically tracked on the Development
+[Project board](https://github.com/orgs/flowforge/projects/1)
+
+**Note**: this workflow can only be added to *public* repositories in the organisation.
+
 ## NPM packages
 
 ### Naming
 
 - All packages should be scoped to `@flowforge`
 
-Node-RED plugins should start with `nr-` e.g. 
+Node-RED plugins should start with `nr-` e.g.
  - @flowforge/nr-storage
  - @flowforge/nr-auth
 
@@ -81,7 +90,7 @@ The `package.json` must contain the following keys
       "node": ">=16.x"
     }
     ```
- 
+
 ### Package Version Numbering
 
 Package numbers should follow the Semantic Versioning Scheme as laid out on [semver.org](https://semver.org/).
@@ -90,6 +99,6 @@ Each component will stay in step with the core flowforge/flowforge release numbe
 
 Major and minor releases will follow the schedule laid out in the [Cadence](index.md#cadence) section of the handbook.
 
-A Fix release can be made at any time, depending on the best judgement of the engineer making the fix requires a review by another team member.
+A Fix release can be made at any time, depending on the best judgement of the engineer making the fix but requires a review by another team member.
 
 The process for making a release is documented [here](../development/packaging.md).
