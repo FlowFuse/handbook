@@ -4,7 +4,7 @@ The follow process should be followed for a FlowForge release.
 
 ## Setup
 
- - Decide who will be Release Manager for this release. For Major/Minor releases this should be shared across the whole team to prevent it becoming a single point of failure. For Fix releases it can be the developer commiting the fix.
+ - Decide who will be Release Manager for this release. For Major/Minor releases this should be shared across the whole team to prevent it becoming a single point of failure. For Fix releases it can be the developer committing the fix.
  - Create a Release check list issue (using template) on the flowforge/admin project to keep track of all components included in the release (e.g. https://github.com/flowforge/admin/issues/7)
  - Assign the issue to the Release Manager
  - Ensure you have a valid login token for npmjs as the flowforge user (credentials in the shared password vault)
