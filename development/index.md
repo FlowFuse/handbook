@@ -40,6 +40,15 @@ A planning meeting is held at the start of the release. In this meeting the team
 discuss the current backlog of stories, tasks and bugs to propose items to be added
 to the release. All items assigned to a milestone should have an assigned owner.
 
+### Weekly Update
+
+We meet as a team on Friday morning to update each other on progress that week and
+to share our goals for the following week. This gives everyone a chance
+co-ordinate their work for the following week whilst things are fresh in their heads.
+
+This also means that, come the start of the following week, everyone should already
+have in mind what needs doing.
+
 ### Retrospective
 
 The day after each FlowForge release, always a Friday, a meeting is scheduled
