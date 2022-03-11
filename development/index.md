@@ -75,3 +75,19 @@ or stories will be completed.
 To celebrate the launch of a new version of FlowForge, we organize a lunch on the
 release day. Each team member is encouraged to order a lunch (Expensable up to 20$
 per launch) and join a social lunch zoom call.
+
+
+### Project Board
+The project board holds all issues and PR's across all our repos.
+
+Within the project board we use the following status's and move between them as shown.
+
+**No Status** This is the default for all new issues, The Product Owner will review them and move to an appropriate next status.
+**Backlog** This is for all work that we know needs to be done eventually but has not yet been prioritized to a milestone.
+**In Design** Items for this or the next milestone which need active planning or design consideration before work can start
+**ToDo**  Ready to start development work, person may or may not be assigned
+**In Progress**  Actively Being worked on, person MUST be assigned (This should be a relatively short list) DRAFT PR's should stay in this state
+**In Review**  Work is complete awaiting Review, PR's that have been reviewed can then be merged, once a PR is ready for review the associated issues/stories should be moved to this state as well.
+**Done**  PR Merged, Issue closed, Once PR is merged branch should be deleted.
+
+
