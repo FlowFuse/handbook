@@ -84,8 +84,8 @@ Within the project board we use the following status's and move between them as 
 
 **No Status** This is the default for all new issues, The Product Owner will review them and move to an appropriate next status.
 **Backlog** This is for all work that we know needs to be done eventually but has not yet been prioritized to a milestone.
-**In Design** Items for this or the next milestone which need active planning or design consideration before work can start
-**ToDo**  Ready to start development work, person may or may not be assigned
+**In Design** Items for this or the next milestone which need active planning or design consideration before development work can start.
+**ToDo**  Items for this or the next milestone, Ready to start development work, person may or may not be assigned.
 **In Progress**  Actively Being worked on, person MUST be assigned (This should be a relatively short list) DRAFT PR's should stay in this state
 **In Review**  Work is complete awaiting Review, PR's that have been reviewed can then be merged, once a PR is ready for review the associated issues/stories should be moved to this state as well.
 **Done**  PR Merged, Issue closed, Once PR is merged branch should be deleted.
