@@ -82,12 +82,12 @@ The project board holds all issues and PR's across all our repos.
 
 Within the project board we use the following status's and move between them as shown.
 
-**No Status** This is the default for all new issues, The Product Owner will review them and move to an appropriate next status.
-**Backlog** This is for all work that we know needs to be done eventually but has not yet been prioritized to a milestone.
-**In Design** Items for this or the next milestone which need active planning or design consideration before development work can start.
-**ToDo**  Items for this or the next milestone, Ready to start development work, person may or may not be assigned.
+**No Status** This is the default for all new issues, The Product Owner will validate them to remove duplication, and move to an appropriate next status.
+**Backlog** All items not currently assigned to a milestone. It contains Product Items (Epics/Stories) that are prioritised by the Product Owner and Technical Chores (Tasks) that are prioritised by the CTO..
+**In Design** Assigned to current or next mileston, work on the item is focused on design work. User Experience, Creating wireframe mockups, sketching public API changes and Database model requirements.
+**Read**  This is the engineering backlog for the current or next milestone. Items in this state should have enough information in them for anyone to pick and start implementing what is described, person may or may not be assigned.
 **In Progress**  Actively Being worked on, person MUST be assigned (This should be a relatively short list) DRAFT PR's should stay in this state
-**In Review**  Work is complete awaiting Review, PR's that have been reviewed can then be merged, once a PR is ready for review the associated issues/stories should be moved to this state as well.
+**Review**  Work is complete awaiting Review, PR's that have been reviewed can then be merged, once a PR is ready for review the associated issues/stories should be moved to this state as well.
 **Done**  PR Merged, Issue closed, Once PR is merged branch should be deleted.
 
 
