@@ -1,0 +1,2 @@
+# Only spell check markdown files
+\.md$
