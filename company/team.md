@@ -9,7 +9,7 @@ interview.
 
 When interviewing to hire new team members, optimize for value-fit over
 culture-fit. Hiring for value-fit allows others to add to culture and thus fosters
-diversity and inclusivity.
+diversity and builds inclusive teams.
 
 ## Onboarding
 

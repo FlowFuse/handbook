@@ -3,7 +3,7 @@
 ## Customer type
 The level of support provided to a customer will depend on the tier of our product they are using:
 
-- *FlowForge Cloud* customers can raise a support ticket by emailing support@flowforge.com
+- *FlowForge Cloud* customers can raise a support ticket by sending an email to support@flowforge.com
 - *Self Managed - Community Edition* users should be directed to raise a GitHub issue in the main flowforge repository (https://github.com/flowforge/flowforge) 
 - *Enterprise* customers will have their own custom arrangements, TBC
 
@@ -12,7 +12,8 @@ The level of support provided to a customer will depend on the tier of our produ
 ## Support Tickets
 
 ### Freshdesk
-We use freshdesk to manage our customer support tickets for FlowForge Cloud, there is currently a single login for the support user in the Support Valur of 1Password.
+
+We use Freshdesk to manage our customer support tickets for FlowForge Cloud, there is currently a single login for the support user in the Support Valur of 1Password.
 
 Whenever a customer raises a new ticket or replies with an update a message is posted into slack #support-tickets.
 This will allow the whole team visibility of customer issues, comments on the slack thread will be added to the ticket as notes. _Note: because of the way the slack integration works freshdesk won't show who has made the comment, so please add your name_
@@ -23,11 +24,11 @@ Freshdesk uses notes and responses within the thread, notes are internal and not
 
 ### Scope of Support
 
-Initially FlowForge Cloud customers will only get support for issues relating to the flowforge application or their account & billing. Any questions around Node-RED itself or their flows should be redirected to the usuall Node-RED community channels, eg Discourse, Slack etc. It is reasonable to also point a customer direct to a repo for a 3rd party node question.
+Initially FlowForge Cloud customers will only get support for issues relating to the FlowForge application or their account & billing. Any questions around Node-RED itself or their flows should be redirected to the usual Node-RED community channels, eg Discourse, Slack etc. It is reasonable to also point a customer direct to a repo for a 3rd party node question.
 
 ### SLA
 
-Support will be avaible between 0900-1700 UK Time Monday to Friday, with anything outside of those times on a 'best effort' basis. We aim to provide an initial response or acknowledgement to a customers ticket within 4 hours during those times. No further commitments are made in terms of resolution times at this stage.
+Support will be available between 0900-1700 UK Time Monday to Friday, with anything outside of those times on a 'best effort' basis. We aim to provide an initial response or acknowledgement to a customers ticket within 4 hours during those times. No further commitments are made in terms of resolution times at this stage.
 
 ### Escalation
 

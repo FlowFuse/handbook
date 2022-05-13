@@ -52,7 +52,7 @@ There are three types of issue used for planning work:
 
 
 Whenever an issue is raised, it will be reviewed by the Product Owner/CTO and added
-to the Product Board for prioritisation and planning. The exception to this are
+to the Product Board for prioritization and planning. The exception to this are
 tasks/bugs related to work already in progress and that need to be addressed in
 the current milestone. They should be added to the Development Board and current
 milestone directly.
@@ -86,7 +86,7 @@ Items on this board have the following states:
    - This means someone is adding more detail to the story, providing a high-level
      technical outline (database model impact, API changes) as well as any UX mockups
      or high-level descriptions. Once complete, the item is moved to the `👀 Review` state.
- - `👀 Review` - Items that are ready to be reviewed by PO/CTO (and any other stackholders)
+ - `👀 Review` - Items that are ready to be reviewed by PO/CTO (and any other stakeholders)
    - This review ensures the design meets the acceptance criteria and/or is headed
      in the right direction. 
    - If more work is needed, it moves back to the `📐 Design` state.

@@ -16,11 +16,11 @@ The services are running in EU-West-1.
 
 The staging environment uses one node running on a t2.small for the management app and a pair of t2.small nodes for the projects cluster.
 
-t2.small is the smallest instance that can be used with EKS.
+t2.small is the smallest instance that can be used with AWS' EKS.
 
 ## Email
 
-Amazon SES is setup on staging however it is still running in sandbox mode which means only verified address & domains can RECEIVE emails from it, this is currently limited to flowforge.com email addresses.
+Amazon SES is setup on staging however it is still running in sandbox mode which means only verified address & domains can RECEIVE email from it, this is currently limited to flowforge.com email addresses.
 
 There is no intention to move this from sandbox as this helps to limit access to staging.
 

@@ -43,7 +43,7 @@ urgency and a focus to achieve our best.
 When you disagree with a solution to a problem, provide a concrete alternate
 solution to allow momentum to be maintained or even gained.
 
-Ship the minimun viable change possible. Small changes allow fast feedback loops
+Ship the minimum viable change possible. Small changes allow fast feedback loops
 which in turn can aid in deciding the next minimal viable iteration. Further,
 iteration naturally splits big problems into small steps, creates positive
 momentum, and allows to capture value quicker.

@@ -1,1 +1,29 @@
+# Brand names
+AWS
+Brex
+EKS
+Figma
+FigJam
 FlowForge
+Freshdesk
+Figma
+GitHub
+GitLab
+Google
+Microsoft
+
+# Programming/Product jargon
+changelog
+Fibonaci
+metadata
+mkdir
+roadmap
+SVG
+linting
+wiki
+yml
+
+# FlowForge jargon
+localfs
+geekbot
+standups

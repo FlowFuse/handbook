@@ -2,7 +2,7 @@
 
 As per our [Development Cadence](../development#cadence), we release a new version of FlowForge every four weeks. Work begins on formal design (mid and high-fidelity UX and visual design assets) two weeks prior to a release cycle beginning, i.e. 6 weeks ahead of the release. 
 
-In getting a headstart on major design work, we ensure that prior thinking has been conducted on the high-level UX, and development is not blocked at the start of a release sprint. Both visual and UX design iterations will occur throughout the first two weeks of a cycle, alongside development efforts.
+In getting a head start on major design work, we ensure that prior thinking has been conducted on the high-level UX, and development is not blocked at the start of a release sprint. Both visual and UX design iterations will occur throughout the first two weeks of a cycle, alongside development efforts.
 
 ## Tools
 
@@ -19,16 +19,16 @@ Underlying each of these Figma files is a standardised component library, which 
 
 ### FigJam ([more info](https://www.figma.com/figjam/))
 
-Figjam, a sister-product of Figma, is a cloud-hosted white boarding tool that enables remote, digital collaboration. 
+FigJam, a sister-product of Figma, is a cloud-hosted white boarding tool that enables remote, digital collaboration. 
 
-Any in-person whiteboard discussions should have a documented digitial copy. Additionally, FigJam can be used to host and run digital workshops.
+Any in-person whiteboard discussions should have a documented digital copy. Additionally, FigJam can be used to host and run digital workshops.
 
 
 ### Adobe Creative Cloud ([more info](https://www.adobe.com/uk/creativecloud.html))
 
 For visual design elements of the user interface and public-facing material, we predominantly use Adobe Illustrator and Adobe After Effects.
 
-- **Illustrator** provides us tooling to create high-quality, static SVG assets to suplement the user experience on both the website and the FlowForge platform.
+- **Illustrator** provides us tooling to create high-quality, static SVG assets to supplement the user experience on both the website and the FlowForge platform.
 
 - **After Effects** enables the generation of animated SVG elements. In particular, we work with [Lottie Files](https://lottiefiles.com/) for injection into both our website and FlowForge platform.
 

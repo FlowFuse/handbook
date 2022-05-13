@@ -20,7 +20,7 @@ Before you can take time off you should _always_:
 
 #### Sick leave
 
-Sick leave, or having limited availibility is not recorded currently. Keep your
+Sick leave, or having limited availability is not recorded currently. Keep your
 manager updated on your health, and let them know what FlowForge can do for you
 to aid in your recovery.
 
@@ -31,7 +31,7 @@ you will be required to claim statutory Parental Leave pay (if you are eligible)
 
 Any employee can take up to 6-weeks if they wish without requiring manager approval. We recommend a minimum of 4 weeks, but recognise it's a personal choice to make. Further leave can be requested, but should be discussed with your manager.
 
-If you live in a country that offers statuatory leave longer than this, then
+If you live in a country that offers statutory leave longer than this, then
 FlowForge will abide by this.
 
 ## Expenses
@@ -49,7 +49,7 @@ or through reimbursement.
 
 ### Company Credit Card
 
-We use [Brex](https://www.brex.com/) to provide cards to the team. They are, by
+We use [Brex](https://www.Brex.com/) to provide cards to the team. They are, by
 default, virtual Mastercards, although there is an option to get a physical
 card sent out.
 

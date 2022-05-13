@@ -35,7 +35,7 @@ Equity is only increased on employee promotions.
 ## Benefits
 
 Last component of the total compensation are the benefits offered. The intent is
-to keep these as location independant as possible and practical. However, as a
+to keep these as location independent as possible and practical. However, as a
 company we strive to offer everyone a decent standard of living. As such we might
 offer location dependant benefits to ensure standards are met.
 
