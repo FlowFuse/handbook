@@ -142,7 +142,8 @@ Work comes from two places:
  - Items from the ToDo status on the Development Board
 
 It is important we make progress on both sides to ensure a steady velocity across
-milestones.
+milestones. Most issues for each release will be assigned at the first day of the
+milestone to ensure most important work is picked up.
 
 Naturally there will be items that crop up unexpectedly and have to be dealt with
 pragmatically. For example, we may realise an item is needed for the current release
