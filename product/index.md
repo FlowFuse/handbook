@@ -5,9 +5,9 @@ This covers how we run our business and deliver service to our customers.
 ## Product Vision
 FlowForge's target customers are familiar with Node-RED looking to run Node-RED in production with confidence, from single users with a single instance to multiple instances across multiple users.
 
-We make it easy to create instances of Node-RED and to share configuration and work between them. We provide collaboration functionality allowing multiple people in a team to build and maintain a flow. 
-We give user a management platform that delivers the features around running node-red such that it requires minimal effort on the part of the customer to configure, update, and maintain their environments.
-We enable customers to run the flows wherever they require based on what systems and devices they are connecting to.
+FlowForge makes it easy to create instances of Node-RED and to share configuration and work between them. We provide collaboration functionality allowing multiple people in a team to build and maintain a flow. 
+FlowForge offers users a management platform with features needed to run Node-RED such that it requires minimal effort on the part of the customer to configure, update, and maintain their environments.
+FlowForge enables customers to run the flows wherever they require based on what systems and devices they are connecting to.
 
 FlowForge is best placed deliver this because our team has extensive experience with the core of Node-RED.
 We differentiate from the competition by offering a range of deployment options for both public shared SaaS and dedicated instances either on-prem or in the customers cloud. Keeping our Node-RED experience consistent with the core Node-RED experience. Improvements are fed back into the Node-RED project, rather than creating a fork of the Node-RED project.
