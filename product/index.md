@@ -3,7 +3,7 @@
 This covers how we run our business and deliver service to our customers.
 
 ## Product Vision
-Our target customers are users familiar with Node-RED looking to run multiple instances or share access across multiple users.
+FlowForge's target customers are familiar with Node-RED looking to run Node-RED in production with confidence, from single users with a single instance to multiple instances across multiple users.
 
 We make it easy to create instances of Node-RED and to share configuration and work between them. We provide collaboration functionality allowing multiple people in a team to build and maintain a flow. 
 We give user a management platform that delivers the features around running node-red such that it requires minimal effort on the part of the customer to configure, update, and maintain their environments.
