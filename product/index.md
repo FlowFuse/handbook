@@ -10,7 +10,7 @@ We give user a management platform that delivers the features around running nod
 We enable customers to run the flows wherever they require based on what systems and devices they are connecting to.
 
 FlowForge is best placed deliver this because our team has extensive experience with the core of Node-RED.
-We differentiate from the competition by offering a range of deployment options for both public shared SaaS and dedicated instances either on-prem or in the customers cloud. Keeping our Node-RED experience consistent with the core Node-RED experience, where there are improvements we feed those back into the project rather than creating custom forks.
+We differentiate from the competition by offering a range of deployment options for both public shared SaaS and dedicated instances either on-prem or in the customers cloud. Keeping our Node-RED experience consistent with the core Node-RED experience. Improvements are fed back into the Node-RED project, rather than creating a fork of the Node-RED project.
 
 
 - [Plan](../product/plan.md)
