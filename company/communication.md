@@ -4,6 +4,7 @@ As a distributed company we should be mindful of how we communicate.
 
 ### Use UTC for times
 
+Pez testing editing directly on github.
 Unless explicitly stated otherwise, communicate times in UTC. This allows each
 team member to remember just their offset to UTC and makes communication around
 timezones less error-prone (e.g. misremembering your own offset to a colleagues
