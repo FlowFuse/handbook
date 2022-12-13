@@ -133,3 +133,26 @@ For example:
  - [Netherlands](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/auto_en_vervoer/auto_van_de_onderneming/autokosten/u_rijdt_in_uw_eigen_auto) - €0.19 per Km
 
 A screenshot of the route and the total distance travelled should be included with any expense claim.
+
+### Bring Your Own Device (BYOD) Policy
+
+FlowForge recognises the benefits of allowing employees to use their own devices, such as laptops and monitors, for work purposes. This policy outlines the guidelines for using personal devices for work-related activities, as well as the budget available to cover their cost.
+
+#### Eligible Devices
+
+Employees may use their own laptops and monitors for work purposes, provided that the devices meet the requirements outlined in our Bring Your Own Device (BYOD) Policy.
+
+#### Usage Guidelines
+
+- Employees must ensure that their personal devices are adequately protected against malware and other security threats. This includes keeping the device's operating system (OS) and security software up to date, and avoiding opening emails or downloading files from unknown sources.
+- Employees are responsible for backing up their own data on their personal devices. FlowForge will not be held responsible for any data loss or damage to personal devices.
+- Personal devices must be fit for purpose, meaning that they must have the necessary hardware and software capabilities to enable the employee to perform their job duties.
+- Employees must not use their personal devices to store or access any confidential or sensitive company information. If necessary, employees may be required to use a company-issued device or a secure virtual environment to access such information.
+
+#### Budget for Personal Devices
+
+Employees will be provided with a monthly budget of $100 to cover the cost of their personal devices, such as laptops and monitors. This budget is only available if the employee buys all of their own equipment. The budget can be used to cover the cost of purchasing new equipment, as well as any ongoing expenses, such as maintenance and repair costs.
+
+#### Monitoring and Compliance
+
+FlowForge reserves the right to monitor and review the usage of personal devices for work purposes. Employees must comply with this policy and any other applicable company policies.
