@@ -19,3 +19,5 @@ Node-RED has an open governance model which means everyone has a seat at the
 table. We will continue to champion that model and work with the community to
 ensure anyone who wants to contribute to the project is able to.
 
+## Everybody Codes
+

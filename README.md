@@ -54,6 +54,8 @@ The handbook is maintained on [GitHub](https://github.com/flowforge/handbook) an
 All changes merged to the `main` branch will be automatically deployed to the handbook on the
 [FlowForge website](https://flowforge.com/handbook).
 
+Details of contributing to the handbook can be found [here](./development/contributing/handbook.md)
+
 #### Private information
 
 Whilst instinctively we want to be open in all we do, there will inevitably by content that is not appropriate
