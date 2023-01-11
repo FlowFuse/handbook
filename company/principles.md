@@ -21,3 +21,14 @@ ensure anyone who wants to contribute to the project is able to.
 
 ## Everybody Codes
 
+Inspired by [PostHog's Policy](https://posthog.com/handbook/company/values#everyone-codes), FlowForge
+operates under an "Everybody Codes" philosophy. Whilst this can feel very daunting, we have heard how
+effective it's been at PostHog, and PostHog have a couple of articles that detail a non-coders
+experience with this principle [here](https://posthog.com/blog/a-non-coders-thoughts-on-everybody-codes-culture).
+
+This principle doesn't require everybody to be a Software Developer, and you certainly
+don't need any coding experience prior to joining FlowForge.
+
+Getting to grips with GitHub is useful though [GitHub - Entry Level Guide](../development/contributing/git-how-to.md),
+as it is what we use to track our work, and enables you to contirbute directly to the Website, Handbook
+and even the Product itself.
