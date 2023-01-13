@@ -1,51 +1,9 @@
----
-navTitle: Handbook
----
+## FlowForge Handbook
 
-## Introduction
+This repository contains the source for FlowForge's Company Handbook, detailing
+information about how FlowForge Inc. is run.
 
-This handbook contains all the information about how FlowForge Inc. is run.
-
-It's a living set of documents - they will evolve with time and expand as we learn
-and discover new things.
-
-The handbook is here for the whole company to help maintain. Pull-requests are welcome
-and strongly encouraged.
-
-### Company
-
- - [Values](./company)
- - [Strategy](./company/strategy.md)
- - [Operations](./operations)
- - [Product](./product)
-
-### Development & Design Practices
-
- - [Design](./design)
- - [Development](./development)
- - [Videos](./marketing/videos.md)
-
-### Sales and Marketing
-
- - [Sales](./sales)
- - [Marketing & Communication](./marketing)
-
-### Internal Operations
-
- - [Communication](./company/communication.md)
- - [PeopleOps](./peopleops)
- - [Security](./company/security.md)
- 
-### About the Handbook
-
-The FlowForge handbook is inspired by the [GitLab handbook](https://about.gitlab.com/handbook/about/).
-As an all-remote company, we share [their rationale](https://about.gitlab.com/handbook/about/#advantages) for having a handbook.
-
-The aim is to avoid institutional knowledge building up inside our heads without
-also being written down for others to share. We could do that all on the internal
-Google Drive, but by publishing in the handbook it allows for an open and honest
-conversation about what we do.
-
+All content for the Handbook can be found inside the [./src](./src) folder.
 
 #### Contributing
 
@@ -57,7 +15,7 @@ All changes merged to the `main` branch will be automatically deployed to the ha
 #### Private information
 
 Whilst instinctively we want to be open in all we do, there will inevitably by content that is not appropriate
-to make public. That content should be shared on the FlowForge Google Drive.
+to make public. That content should, instead, be shared on the FlowForge Google Drive.
 
 ## Building the site locally
 
