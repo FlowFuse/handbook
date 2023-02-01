@@ -1,3 +1,8 @@
+---
+navTitle: Webinars
+navGroup: Sales & Marketing
+---
+
 ## FlowForge Webinars
 
 FlowForge will organize two types of webinars: 1) Ask Me Anything session that is an ope mic for community members to ask questions of Node-RED and FlowForge experts, and 2) Educational webinars that will educational topics. The current plan is to do an AMA session the second week of each month and an educational webinar the last week of the month.
