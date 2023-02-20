@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "dictionaries": [],
+  "ignorePaths": [
+    "*.mp4",
+    "cspell.json"
+  ],
+  "import": [
+    "../../flowforge-dev-env/node_modules/@flowforge/cspell-dictionary/cspell-ext.json"
+  ],
+  "words": [
+    "actiononsave",
+    "Anypoint",
+    "Baloo",
+    "Boomi",
+    "Brex",
+    "Carta",
+    "Coworking",
+    "descoped",
+    "Expensable",
+    "Figjam",
+    "Geekbot",
+    "idents",
+    "Integromat",
+    "mailinator",
+    "marcer",
+    "Mastercards",
+    "Meltano",
+    "Mulesoft",
+    "npmrc",
+    "Outro",
+    "overscheduled",
+    "rgba",
+    "skillset",
+    "Slackbot",
+    "timeboxed",
+    "Webmethods.io",
+    "Webmethods",
+    "Workato"
+  ]
+}
