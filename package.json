@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@flowforge/cspell-dictionary": "github:flowforge/cspell-dictionary",
+    "@flowforge/cspell-dictionary": "https://github.com/flowforge/cspell-dictionary.git",
     "cspell": "^6.26.3"
   },
   "scripts": {
