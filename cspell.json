@@ -10,34 +10,42 @@
     "@flowforge/cspell-dictionary/cspell-ext.json"
   ],
   "words": [
-    "actiononsave",
+    // Business terms
+    "Coworking",
+    "descoped",
+    "Expensable",
+    "skillset",
+    "timeboxed",
+    "overscheduled",
+
+    // Technical terms
+    "npmrc",
+    "idents",
+    "Outro",
+    "rgba",
+
+    // Other companies/tools
     "Anypoint",
     "Baloo",
     "Boomi",
     "Brex",
     "Carta",
-    "Coworking",
-    "descoped",
     "Discourse",
-    "Expensable",
     "Figjam",
     "Geekbot",
-    "idents",
     "Integromat",
     "mailinator",
-    "marcer",
     "Mastercards",
     "Meltano",
     "Mulesoft",
-    "npmrc",
-    "Outro",
-    "overscheduled",
-    "rgba",
-    "skillset",
     "Slackbot",
-    "timeboxed",
-    "Webmethods.io",
     "Webmethods",
-    "Workato"
+    "Workato",
+
+    // People
+    "marcer",
+
+    // Misc
+    "actiononsave",
   ]
 }
