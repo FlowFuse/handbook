@@ -7,7 +7,7 @@
     "cspell.json"
   ],
   "import": [
-    "../../flowforge-dev-env/node_modules/@flowforge/cspell-dictionary/cspell-ext.json"
+    "@flowforge/cspell-dictionary/cspell-ext.json"
   ],
   "words": [
     "actiononsave",

@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@flowforge/cspell-dictionary": "github:flowforge/cspell-dictionary",
+    "cspell": "^6.26.3"
+  },
+  "scripts": {
+    "lint": "npm run lint:spelling",
+    "lint:spelling": "cspell lint --no-progress --show-suggestions --show-context --relative --gitignore  ."
+  }
+}
