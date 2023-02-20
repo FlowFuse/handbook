@@ -9,11 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          persist-credentials: false
       - uses: actions/setup-node@v3
         with:
           node-version: 18
+      - name: Configure Git
+        run: git config --global --add url."https://${{ secrets.ACCESS_TOKEN }}@github.com/".insteadOf "https://github.com/"
+      - name: Configure Git 2
+        run: git config --global --add url."https://${{ secrets.ACCESS_TOKEN }}@github.com/".insteadOf "ssh://git@github.com/"
       - name: Install dependencies
         run: npm install 
       - uses: streetsidesoftware/cspell-action@v2
