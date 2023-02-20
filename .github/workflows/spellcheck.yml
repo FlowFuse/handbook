@@ -12,14 +12,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-      - name: Configure Git
-        run: git config --global --add url."https://${{ secrets.ACCESS_TOKEN }}@github.com/".insteadOf "https://github.com/"
-      - name: Configure Git 2
-        run: |
-          git config --global --add url."https://${{ secrets.ACCESS_TOKEN }}@github.com/".insteadOf "ssh://git@github.com/"
-          git config --global url."https://github.com/".insteadOf git@github.com:
-          git config --global url."https://".insteadOf git://
-          git config --global url."https://".insteadOf ssh://
       - name: Install dependencies
-        run: npm install 
+        run: npm install
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: streetsidesoftware/cspell-action@v2
