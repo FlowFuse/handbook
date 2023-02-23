@@ -1,4 +1,5 @@
 ---
+title: Front End Development
 navTitle: Front End
 ---
 

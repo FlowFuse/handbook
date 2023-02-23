@@ -1,4 +1,5 @@
 ---
+title: Hubspot
 navTitle: HubSpot
 ---
 

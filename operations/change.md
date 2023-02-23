@@ -1,4 +1,5 @@
 ---
+title: Change Control
 navTitle: Change Control
 ---
 

@@ -1,6 +1,5 @@
 ---
-meta:
-    title: Company Principles
+title: Company Principles
 ---
 
 # Principles

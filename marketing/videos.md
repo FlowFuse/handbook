@@ -1,4 +1,5 @@
 ---
+title: Video
 navTitle: Video
 navGroup: Sales & Marketing
 ---

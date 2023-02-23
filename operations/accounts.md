@@ -1,4 +1,5 @@
 ---
+title: Accounts
 navTitle: Accounts
 ---
 

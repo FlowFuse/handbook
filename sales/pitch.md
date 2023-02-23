@@ -1,4 +1,5 @@
 ---
+title: Sales Pitch
 navTitle: Sales Pitch
 ---
 

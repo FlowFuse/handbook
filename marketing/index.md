@@ -1,4 +1,5 @@
 ---
+title: Marketing
 navTitle: Marketing
 navGroup: Sales & Marketing
 ---

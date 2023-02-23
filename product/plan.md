@@ -1,4 +1,5 @@
 ---
+title: Plan
 navTitle: Plan
 ---
 # Product Plan

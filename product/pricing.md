@@ -1,4 +1,5 @@
 ---
+title: Pricing
 navTitle: Pricing Principles
 ---
 

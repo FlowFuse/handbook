@@ -1,4 +1,5 @@
 ---
+title: Product
 navTitle: Product
 navGroup: Company
 ---

@@ -1,4 +1,5 @@
 ---
+title: Design
 navTitle: Design
 navGroup: Development & Design Practices
 ---

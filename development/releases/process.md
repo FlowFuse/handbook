@@ -1,6 +1,8 @@
 ---
+title: Release Process
 navTitle: Release Process
 ---
+
 # Release Process
 
 There are two processes, one for major/minor point releases. The second for patch

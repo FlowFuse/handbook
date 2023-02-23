@@ -1,4 +1,5 @@
 ---
+title: How we work
 navTitle: How We Work
 ---
 

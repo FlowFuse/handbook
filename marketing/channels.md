@@ -1,4 +1,5 @@
 ---
+title: Content Channels
 navTitle: Content Channels
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Planning
 navTitle: Planning
 ---
 

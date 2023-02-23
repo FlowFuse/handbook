@@ -1,3 +1,7 @@
+---
+title: Design Thinking
+---
+
 ## Design Thinking
 
 At FlowForge, we practice Design Thinking when considering our UI design and wider decisions influencing the overall user experience of FlowForge.

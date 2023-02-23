@@ -1,3 +1,7 @@
+---
+title: Contributing to FlowForge
+---
+
 ## Contributing
 
 ### Coding Best Practices

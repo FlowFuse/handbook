@@ -1,5 +1,6 @@
 ---
-navGroup: Sales & Marketing
+title: Sales
+navGroup: Sales
 ---
 
 This section details how to engage with customers at FlowForge and particularly how you should communicate with customers about FlowForge, including a recommended demo script for showing how FlowForge works.

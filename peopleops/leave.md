@@ -1,4 +1,5 @@
 ---
+title: Vacation and Leave
 navTitle: Vacation & Leave
 ---
 

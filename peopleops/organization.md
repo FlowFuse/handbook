@@ -1,4 +1,5 @@
 ---
+title: Organization
 navTitle: Organization
 ---
 

@@ -1,6 +1,5 @@
 ---
-meta:
-    title: Marketing - Blog
+title: Marketing - Blog
 ---
 
 ## Blog

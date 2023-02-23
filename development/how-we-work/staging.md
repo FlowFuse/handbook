@@ -1,6 +1,8 @@
 ---
+title: Staging Enviromnent
 navTitle: Staging Environment
 ---
+
 ## Staging Environment
 
 We have a staging environment running on AWS which is a scaled down replica of

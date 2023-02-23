@@ -1,4 +1,5 @@
 ---
+title: Company
 navTitle: Company
 navGroup: Company
 ---

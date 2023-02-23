@@ -1,4 +1,5 @@
 ---
+title: Packaging Guidelines
 navTitle: Packaging Guidelines
 ---
 

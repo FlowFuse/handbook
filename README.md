@@ -1,4 +1,5 @@
 ---
+title: Handbook
 navTitle: Handbook
 ---
 

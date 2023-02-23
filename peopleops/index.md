@@ -1,4 +1,5 @@
 ---
+title: People Ops
 navTitle: People Ops
 navGroup: Internal Operations
 ---

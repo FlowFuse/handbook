@@ -1,6 +1,8 @@
 ---
+title: Board of Directors
 navTitle: Board
 ---
+
 # Board of Directors
 
 ## Board meetings

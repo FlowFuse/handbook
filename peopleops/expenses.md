@@ -1,4 +1,5 @@
 ---
+title: Expenses
 navTitle: Expenses
 ---
 

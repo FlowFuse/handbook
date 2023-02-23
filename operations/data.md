@@ -1,4 +1,5 @@
 ---
+title: Data science at FlowForge
 navTitle: Data at FlowForge
 ---
 

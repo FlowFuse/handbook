@@ -1,3 +1,7 @@
+---
+title: Sales Demo
+---
+
 ## Demo
 
 Sales demo's are vital for customer to gain a deep understanding in the value
