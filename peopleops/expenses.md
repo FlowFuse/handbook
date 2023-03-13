@@ -31,6 +31,12 @@ through email, or through Slack. For a full explanation, please [read their docs
 Brex can also be used to create vendor cards that allow for reoccurring payment for a monthly subscription with a vendor.
 Contact the peopleops manager if you require a vendor card.
 
+#### Recurring payments
+
+Before you make an recurring commitment with any vendor, list it on the 
+[SaaS Spend](https://docs.google.com/spreadsheets/d/1V4MwlGN_ZxyHwjgtoZ_jCqgVtGgX76EU7NTmzMD_BSA)
+spreadsheet for tracking.
+
 ### Reimbursement
 
 If you use your own means to purchase something that ought to be covered by the
